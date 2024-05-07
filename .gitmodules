@@ -1,0 +1,9 @@
+[submodule "common"]
+	path = common
+	url = https://github.com/wenwen6969/common
+[submodule "plugins"]
+	path = plugins
+	url = https://github.com/wenwen6969/plugins
+[submodule "scripts"]
+	path = scripts
+	url = https://github.com/wenwen6969/scripts
